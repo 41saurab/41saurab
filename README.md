@@ -4,7 +4,7 @@
 📚 Studying Bsc.CSIT at [Central Campus of Technology](https://cct.tu.edu.np), Nepal<br/>
 💡 Passionate about Full-Stack Development<br/>
 🚀 Currently working on MERN<br/>
-
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=41saurab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=41saurab&theme=dark&hide_border=false)
@@ -12,7 +12,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=41saurab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
