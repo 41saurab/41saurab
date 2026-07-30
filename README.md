@@ -7,23 +7,6 @@
 🚀 Passionate about building scalable, modern web applications  
 🌱 Currently exploring advanced backend architecture, TypeScript, and full-stack development
 
----
-
-## 💫 About Me
-
-I'm a Full-Stack MERN Developer with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**. I enjoy developing clean, maintainable applications with responsive user interfaces and robust backend APIs.
-
-My interests include:
-
-- ⚡ Full-Stack Web Development
-- 🔐 Authentication & Authorization
-- 🌐 REST API Development
-- 📡 Real-time Applications with Socket.IO
-- 🎨 Modern UI Development with Tailwind CSS & ShadCN UI
-- 🚀 Building production-ready applications
-
----
-
 ## 💻 Tech Stack
 
 ### 🌐 Frontend
@@ -64,7 +47,6 @@ My interests include:
 - 🌐 Portfolio: https://merofolio.netlify.app
 - 💼 LinkedIn: https://www.linkedin.com/in/saurab-shrestha-30b705259
 - 📧 Email: 41saurab@gmail.com
-- 💻 GitHub: https://github.com/41saurab
 
 ---
 
