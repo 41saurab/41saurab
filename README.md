@@ -47,6 +47,7 @@
 - 🌐 Portfolio: https://merofolio.netlify.app
 - 💼 LinkedIn: https://www.linkedin.com/in/saurab-shrestha-30b705259
 - 📧 Email: 41saurab@gmail.com
+- 📱 WhatsApp: +977-9842147023
 
 ---
 
