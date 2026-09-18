@@ -98,13 +98,3 @@ I believe good software is not only about writing code — it's also about under
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>“Build. Learn. Improve. Repeat.”</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for stopping by!
-</p>
