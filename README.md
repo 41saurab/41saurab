@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Saurab Shrestha
 
-### `Full-Stack Developer` · `MERN Stack` · `TypeScript`
+### `Full-Stack Developer`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Turning+ideas+into+clean+interfaces;Learning+backend+architecture;Always+building%2C+always+learning" />
@@ -13,21 +13,6 @@
 I'm a **Full-Stack Developer** and final-year **BSc. CSIT student** from Nepal, passionate about building modern, scalable, and user-focused web applications.
 
 I enjoy working across the stack — from crafting responsive interfaces to designing APIs, databases, authentication systems, and real-time features.
-
-```ts
-const saurab = {
-  role: "Full-Stack Developer",
-  stack: "MERN",
-  languages: ["JavaScript", "TypeScript"],
-  focus: ["Web Development", "Backend Architecture", "Clean Code"],
-  currentlyLearning: ["Advanced Backend Architecture", "TypeScript"],
-  location: "Dharan, Nepal"
-};
-```
-
-> 🚀 Building with curiosity.
-> 🧠 Learning by building.
-> 🛠️ Improving one commit at a time.
 
 ---
 
@@ -69,34 +54,6 @@ const saurab = {
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-## 🧩 Areas I Enjoy
-
-```text
-Frontend Development       ███████████████████░   React / Next.js
-Backend Development        ██████████████████░░   Node / Express / NestJS
-API Development            ██████████████████░░   REST APIs
-Database Design             ████████████████░░░░   MongoDB / PostgreSQL
-Authentication              ████████████████░░░░   JWT / RBAC
-Real-time Applications      ███████████████░░░░░   Socket.IO
-Responsive UI               ███████████████████░   Tailwind / ShadCN
-```
-
----
-
-## 🌱 Currently Learning
-
-I'm currently going deeper into:
-
-* 🏗️ Advanced backend architecture
-* 🔷 TypeScript
-* 🧩 Full-stack application architecture
-* 🔐 Authentication & authorization
-* 📡 REST API design
-* 🗃️ Database design and optimization
-* ⚡ Scalable and maintainable applications
 
 ---
 
