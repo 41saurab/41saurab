@@ -1,54 +1,153 @@
-# Hi, I'm Saurab! 👋
+# 👋 Hey, I'm Saurab Shrestha
 
-### Full-Stack Developer • MERN Stack
+### `Full-Stack Developer` · `MERN Stack` · `TypeScript`
 
-👨‍💻 Final-year BSc. CSIT Student at [Central Campus of Technology](https://cct.tu.edu.np), Nepal  
-💼 Frontend Developer at **Crewvator** (Freelance)  
-🚀 Passionate about building scalable, modern web applications  
-🌱 Currently exploring advanced backend architecture, TypeScript, and full-stack development
-
-## 💻 Tech Stack
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-
-### 🖥️ Backend
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Socket.io](https://img.shields.io/badge/socket.io-black?style=for-the-badge&logo=socket.io)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://merofolio.netlify.app
-- 💼 LinkedIn: https://www.linkedin.com/in/saurab-shrestha-30b705259
-- 📧 Email: 41saurab@gmail.com
-- 📱 WhatsApp: +977-9842147023
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+modern+web+applications;Turning+ideas+into+clean+interfaces;Learning+backend+architecture;Always+building%2C+always+learning" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+## 🧑‍💻 About Me
+
+I'm a **Full-Stack Developer** and final-year **BSc. CSIT student** from Nepal, passionate about building modern, scalable, and user-focused web applications.
+
+I enjoy working across the stack — from crafting responsive interfaces to designing APIs, databases, authentication systems, and real-time features.
+
+```ts
+const saurab = {
+  role: "Full-Stack Developer",
+  stack: "MERN",
+  languages: ["JavaScript", "TypeScript"],
+  focus: ["Web Development", "Backend Architecture", "Clean Code"],
+  currentlyLearning: ["Advanced Backend Architecture", "TypeScript"],
+  location: "Dharan, Nepal"
+};
+```
+
+> 🚀 Building with curiosity.
+> 🧠 Learning by building.
+> 🛠️ Improving one commit at a time.
+
+---
+
+## ⚡ What I Work With
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Router-FF4154?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 🧩 Areas I Enjoy
+
+```text
+Frontend Development       ███████████████████░   React / Next.js
+Backend Development        ██████████████████░░   Node / Express / NestJS
+API Development            ██████████████████░░   REST APIs
+Database Design             ████████████████░░░░   MongoDB / PostgreSQL
+Authentication              ████████████████░░░░   JWT / RBAC
+Real-time Applications      ███████████████░░░░░   Socket.IO
+Responsive UI               ███████████████████░   Tailwind / ShadCN
+```
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently going deeper into:
+
+* 🏗️ Advanced backend architecture
+* 🔷 TypeScript
+* 🧩 Full-stack application architecture
+* 🔐 Authentication & authorization
+* 📡 REST API design
+* 🗃️ Database design and optimization
+* ⚡ Scalable and maintainable applications
+
+---
+
+## 🎓 Education
+
+**BSc. CSIT**
+Central Campus of Technology, Dharan
+`2022 – Present`
+
+**10+2**
+Dharan Higher Secondary School
+`2021 – 2022`
+
+### 📜 Certification
+
+**MERN Stack Web Development**
+Broadway Infosys Pvt. Ltd. · `Aug – Nov 2024`
+
+---
+
+## 🤝 Strengths Beyond Code
+
+> **Communication** · **Leadership** · **Teamwork** · **Time Management**
+
+I believe good software is not only about writing code — it's also about understanding problems, communicating clearly, collaborating with others, and continuously improving.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://merofolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/41saurab">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saurab-shrestha-30b705259">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:41saurab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build. Learn. Improve. Repeat.”</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for stopping by!
+</p>
